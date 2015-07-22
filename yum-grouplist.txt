@@ -1,0 +1,217 @@
+Loaded plugins: aliases, changelog, downloadonly, fastestmirror, kabi, listfull,
+              : presto, refresh-packagekit, security, tmprepo, verify,
+              : versionlock
+Loading support for CentOS kernel ABI
+Setting up Group Process
+Loading mirror speeds from cached hostfile
+Installed Groups:
+   Additional Development
+   Backup Client
+   Backup Server
+   Base
+   CIFS file server
+   Compatibility libraries
+   Console internet tools
+   Desktop
+   Desktop Debugging and Performance Tools
+   Development tools
+   Dial-up Networking Support
+   Directory Client
+   Directory Server
+   E-mail server
+   Eclipse
+   Emacs
+   FCoE Storage Client
+   FTP server
+   Fonts
+   General Purpose Desktop
+   Graphical Administration Tools
+   Graphics Creation Tools
+   Guest Agents
+   Hardware monitoring utilities
+   High Availability
+   High Availability Management
+   Identity Management Server
+   Infiniband Support
+   Input Methods
+   Internet Applications
+   Internet Browser
+   Java Platform
+   KDE Desktop
+   Large Systems Performance
+   Legacy UNIX compatibility
+   Legacy X Window System compatibility
+   Load Balancer
+   Mainframe Access
+   MySQL Database client
+   MySQL Database server
+   NFS file server
+   Network Infrastructure Server
+   Network Storage Server
+   Network file system client
+   Networking Tools
+   PHP Support
+   Performance Tools
+   Perl Support
+   PostgreSQL Database client
+   PostgreSQL Database server
+   Print Server
+   Printing client
+   Remote Desktop Clients
+   Resilient Storage
+   Ruby Support
+   SNMP Support
+   Scalable Filesystems
+   Scientific support
+   Security Tools
+   Server Platform
+   Server Platform Development
+   Smart card support
+   Storage Availability Tools
+   System Management
+   System administration tools
+   TeX support
+   Technical Writing
+   TurboGears application framework
+   Virtualization
+   Web Server
+   Web Servlet Engine
+   Web-Based Enterprise Management
+   X Window System
+   iSCSI Storage Client
+Installed Language Groups:
+   Albanian Support [sq]
+   Amazigh Support [ber]
+   Arabic Support [ar]
+   Armenian Support [hy]
+   Assamese Support [as]
+   Azerbaijani Support [az]
+   Basque Support [eu]
+   Belarusian Support [be]
+   Bengali Support [bn]
+   Bhutanese Support [dz]
+   Brazilian Portuguese Support [pt_BR]
+   Breton Support [br]
+   Bulgarian Support [bg]
+   Catalan Support [ca]
+   Chichewa Support [ny]
+   Chinese Support [zh]
+   Coptic Support [cop]
+   Croatian Support [hr]
+   Czech Support [cs]
+   Danish Support [da]
+   Dutch Support [nl]
+   Esperanto Support [eo]
+   Estonian Support [et]
+   Ethiopic Support [am]
+   Faroese Support [fo]
+   Fijian Support [fj]
+   Filipino Support [fil]
+   French Support [fr]
+   Frisian Support [fy]
+   Friulian Support [fur]
+   Gaelic Support [gd]
+   Galician Support [gl]
+   Georgian Support [ka]
+   German Support [de]
+   Greek Support [el]
+   Gujarati Support [gu]
+   Hebrew Support [he]
+   Hiligaynon Support [hil]
+   Hindi Support [hi]
+   Hungarian Support [hu]
+   Icelandic Support [is]
+   Indonesian Support [id]
+   Interlingua Support [ia]
+   Inuktitut Support [iu]
+   Irish Support [ga]
+   Italian Support [it]
+   Japanese Support [ja]
+   Kannada Support [kn]
+   Kashmiri Support [ks]
+   Kashubian Support [csb]
+   Kazakh Support [kk]
+   Khmer Support [km]
+   Kinyarwanda Support [rw]
+   Konkani Support [kok]
+   Korean Support [ko]
+   Kurdish Support [ku]
+   Lao Support [lo]
+   Latin Support [la]
+   Latvian Support [lv]
+   Lithuanian Support [lt]
+   Low Saxon Support [nds]
+   Macedonian Support [mk]
+   Maithili Support [mai]
+   Malagasy Support [mg]
+   Malay Support [ms]
+   Malayalam Support [ml]
+   Maltese Support [mt]
+   Manx Support [gv]
+   Maori Support [mi]
+   Marathi Support [mr]
+   Mongolian Support [mn]
+   Myanmar (Burmese) Support [my]
+   Nepali Support [ne]
+   Northern Sotho Support [nso]
+   Norwegian Support [nb]
+   Occitan Support [oc]
+   Oriya Support [or]
+   Persian Support [fa]
+   Polish Support [pl]
+   Portuguese Support [pt]
+   Punjabi Support [pa]
+   Romanian Support [ro]
+   Russian Support [ru]
+   Sanskrit Support [sa]
+   Sardinian Support [sc]
+   Serbian Support [sr]
+   Sindhi Support [sd]
+   Sinhala Support [si]
+   Slovak Support [sk]
+   Slovenian Support [sl]
+   Somali Support [so]
+   Southern Ndebele Support [nr]
+   Southern Sotho Support [st]
+   Spanish Support [es]
+   Swahili Support [sw]
+   Swati Support [ss]
+   Swedish Support [sv]
+   Tagalog Support [tl]
+   Tajik Support [tg]
+   Tamil Support [ta]
+   Telugu Support [te]
+   Tetum Support [tet]
+   Thai Support [th]
+   Tibetan Support [bo]
+   Tsonga Support [ts]
+   Tswana Support [tn]
+   Turkmen Support [tk]
+   Ukrainian Support [uk]
+   Upper Sorbian Support [hsb]
+   Urdu Support [ur]
+   Uzbek Support [uz]
+   Venda Support [ve]
+   Vietnamese Support [vi]
+   Walloon Support [wa]
+   Welsh Support [cy]
+   Xhosa Support [xh]
+   Zulu Support [zu]
+Available Groups:
+   Client management tools
+   Debugging Tools
+   Desktop Platform
+   Desktop Platform Development
+   Messaging Client Support
+   Office Suite and Productivity
+   Virtualization Client
+   Virtualization Platform
+   Virtualization Tools
+Available Language Groups:
+   Afrikaans Support [af]
+   Chhattisgarhi Support [hne]
+   English (UK) Support [en_GB]
+   Finnish Support [fi]
+   Luxembourgish Support [lb]
+   Turkish Support [tr]
+Done
