@@ -6,4 +6,9 @@ MAINTAINER Billy Lynch <billy@wlyn.ch>
 # Install Package Groups
 RUN yum -y groupinstall "Development Tools" 
 
+# Add local user
+RUN adduser -m -U -u 1000 dev
+
+USER dev
+WORKDIR /home/dev
 CMD /bin/bash
