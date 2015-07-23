@@ -20,7 +20,7 @@ RUN yum -y install epel-release-latest-6.noarch.rpm && rm epel-release-latest-6.
 ADD config/epel.txt /
 RUN yum -y install $(cat epel.txt | egrep -v "^\s*(#|$)") && rm epel.txt
 
-# Add local user.
+# Add local user
 RUN adduser -m -U -u 1000 dev
 
 USER dev
