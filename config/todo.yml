@@ -1,0 +1,46 @@
+---
+# These packages do not belong in the base repo or EPEL, so it might be harder
+# to install. This serves as a list of packages to keep track of.
+- apache-ant_1.8.2  
+- basex  
+- java-jung2_2.0.1  
+# Note: These are the Oracle JDKs.
+- java_1.5.0  
+- java_1.5.0-docs  
+- java_1.5.0gl  
+- java_1.5.0gl-docs  
+- java_1.6.0  
+- java_1.6.0-docs  
+- java_1.6.0gl  
+- java_1.6.0gl-docs  
+- java_1.7.0  
+- java_1.7.0-docs  
+- java_1.7.0gl  
+- java_1.7.0gl-docs  
+- java_1.8.0  
+- java_1.8.0-docs  
+- maven_2.2.1  
+- maven_3.0.4  
+- pdftk  
+- python_2.7  
+- python_2.7-matplotlib  
+- python_2.7-networkx  
+- python_2.7-numpy  
+- python_2.7-pandas  
+- python_2.7-scipy  
+- python_2.7-sklearn  
+- python_2.7-sympy  
+- python_3.3  
+- python_3.3-matplotlib  
+- python_3.3-networkx  
+- python_3.3-numpy  
+- python_3.3-pandas  
+- python_3.3-scipy  
+- python_3.3-sklearn  
+- python_3.3-sympy  
+- racket  
+- sicstus_4.0.4  
+- sicstus_4.2.0  
+- snap_11.12.31  
+- swi-prolog  
+- weka  

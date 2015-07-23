@@ -1,0 +1,18 @@
+---
+# RPMs to install from EPEL.
+# These might be a newer version than those installed on the iLabs.
+# Install the default for now, we can add versions later.
+packages:
+- clang  
+- fuse-smb  
+- fuse-sshfs  
+- golang  
+- haskell-platform
+- igraph
+- igraph-devel
+- octave  
+- protobuf  
+- protobuf-c  
+- protobuf-c-devel  
+- protobuf-compiler  
+- protobuf-devel  

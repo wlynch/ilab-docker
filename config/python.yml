@@ -1,0 +1,10 @@
+---
+# Python modules to install.
+modules:
+- matplotlib  
+- networkx  
+- numpy  
+- pandas  
+- scipy  
+- sklearn  
+- sympy  

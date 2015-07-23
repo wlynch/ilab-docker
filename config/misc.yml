@@ -1,0 +1,15 @@
+---
+# Utility apps and libs - Maybe Support
+packages:
+- alpine  
+- emacs  
+- emacs-config-plt-scheme  
+- p7zip  
+- pdsh  
+- rar  
+- tmux  
+- unrar
+- 
+# Util Libraries - Maybe Support
+- aspell  
+- aspell-en  
