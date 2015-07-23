@@ -2,8 +2,8 @@
 
 if [ $# -ge 1 ]; then
 	CMD="$@"
-	docker run -i -v $PWD:/home/dev ilab-docker:min bash -c "$CMD"
+	docker run -i -v $PWD:/home/dev wlynch/ilab bash -c "$CMD"
 else
 	# Default to shell if no commands are given.
-	docker run -t -i -v $PWD:/home/dev ilab-docker:min
+	docker run -t -i -v $PWD:/home/dev wlynch/ilab
 fi

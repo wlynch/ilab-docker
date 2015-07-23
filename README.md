@@ -10,10 +10,10 @@ are dependent on the somewhat dated RHEL6 libraries.
 ## How it works
 
 There are 2 docker images defined based on the same root OS as the iLabs:
-* ilab-docker:min - This defines a minimal dev environment that should have
+* wlynch/ilab:latest - This defines a minimal dev environment that should have
   everything a student needs to compile and debug C programs. Estimated size:
 	~780 MB.
-* ilab-docker:max - This defines a more comprehensive environment based on
+* wlynch/ilab:full - This defines a more comprehensive environment based on
   the installed packages of the iLabs. This is probably overkill for most
 	assignments, but it will include libraries that the min image	may not have.
 	Estimated size: 2.9 GB.
