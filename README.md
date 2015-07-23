@@ -70,8 +70,8 @@ directory mounted as the dev user's home directory.
 In the end, all the `ilab` script does is wrap `docker run`. Use the `docker`
 tool directly if you want more control over the execution of your code.
 
-You can pass in -u root to the docker tool to get root access to the container,
-and from there do whatever you want.
+You can pass in `-u root` to the docker tool to get root access to the
+container, and from there you can do whatever you want.
 
 ## Requests & Contributions
 
@@ -79,6 +79,7 @@ Issues and PR are welcome.
 
 ## FAQ
 > Why can't I run [insert program here]?
+
 This probably means that the package is either missing, or the configuration of
 some packages differs slightly from the real iLabs.
 
