@@ -1,0 +1,23 @@
+# yum groups to be installed.
+Additional Development
+Base
+Compatibility libraries
+Console internet tools
+Development tools
+Emacs
+Java Platform
+Legacy UNIX compatibility
+MySQL Database client
+MySQL Database server
+Networking Tools
+PHP Support
+Performance Tools
+Perl Support
+PostgreSQL Database client
+PostgreSQL Database server
+Ruby Support
+Scientific support
+Server Platform
+Server Platform Development
+Web Server
+Web Servlet Engine

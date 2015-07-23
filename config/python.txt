@@ -1,0 +1,8 @@
+# Python modules to install.
+matplotlib  
+networkx  
+numpy  
+pandas  
+scipy  
+sklearn  
+sympy  
