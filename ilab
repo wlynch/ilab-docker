@@ -1,0 +1,10 @@
+#!/bin/bash
+
+if [ $# -gt 1 ]; then
+	CMD="-c $@"
+else
+	# Default to shell if no commands are given.
+	FLAGS="-t -i"
+fi
+
+docker run $FLAGS -v $PWD:/home/dev ilab-docker:min bash $CMD
