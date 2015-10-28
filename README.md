@@ -1,8 +1,8 @@
 # ilab-docker
 
-ilab-docker creates a docker image that simulates the iLab machines so that
-students can develop locally on any system and run their code in a docker
-container.
+A simple docker image that enables Rutgers students to run their code in a
+similar environment of the iLab machines. This enables students to develop
+locally on any system (e.g. OSX, Windows, Linux) that Docker can run on.
 
 This is particularly useful for student assignments using C where the libraries
 are dependent on the somewhat dated RHEL6 libraries.
