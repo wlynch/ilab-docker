@@ -1,6 +1,6 @@
 # This file sets up a basic environment to simulate the C environment used on
 # the iLab Machines.
-FROM centos:centos6
+FROM centos:centos7
 MAINTAINER Billy Lynch <billy@wlyn.ch>
 
 # Install Package Groups
